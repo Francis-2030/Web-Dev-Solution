@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UI Portfolio</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        /* Main Content Styles */
+        .main-content {
+            background-color: #F5F5F5;
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        .main-content h1 {
+            color: #4A4A4A;
+            font-size: 24px;
+            margin-bottom: 30px;
+        }
+
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .gallery img {
+            width: 100%;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 5px;
+        }
+
+        /* Footer Styles */
+        footer {
+            background-color: #1A3C34;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            flex-wrap: wrap;
+        }
+
+        .footer-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            color: white;
+            font-size: 12px;
+        }
+
+        .footer-item img {
+            width: 50px;
+            height: 50px;
+            margin-bottom: 10px;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .gallery {
+                grid-template-columns: 1fr;
+            }
+
+            footer {
+                gap: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Main Content -->
+    <div class="main-content">
+        <h1>My Success Work</h1>
+        <div class="gallery">
+            <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=300&h=150&fit=crop&auto=format" alt="Gallery Image 1 - Desk with computer and plant">
+            <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=300&h=150&fit=crop&auto=format" alt="Gallery Image 2 - Desk with computer and notebook">
+            <!-- Replace the src below with the URL of the AI-generated image for Gallery Image 3 -->
+            <img src="https://placehold.co/300x150" alt="Gallery Image 3 - Desk with flowers and 'YOU GOT THIS' frame">
+            <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=300&h=150&fit=crop&auto=format" alt="Gallery Image 4 - Person working on laptop at desk">
+            <img src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=300&h=150&fit=crop&auto=format" alt="Gallery Image 5 - Close-up of hands typing on laptop">
+            <img src="https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=300&h=150&fit=crop&auto=format" alt="Gallery Image 6 - Hand typing on keyboard with smartwatch">
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-item">
+            <img src="https://cdn-icons-png.flaticon.com/128/2991/2991433.png" alt="Footer Badge 1 - 100% Gluten Free">
+            <span>100% GLUTEN FREE</span>
+        </div>
+        <div class="footer-item">
+            <img src="https://cdn-icons-png.flaticon.com/128/2910/2910937.png" alt="Footer Badge 2 - Massage & Spa">
+            <span>MASSAGE & SPA</span>
+        </div>
+        <div class="footer-item">
+            <img src="https://cdn-icons-png.flaticon.com/128/2910/2910945.png" alt="Footer Badge 3 - Fresh Heat Butcher">
+            <span>FRESH HEAT BUTCHER</span>
+        </div>
+        <div class="footer-item">
+            <img src="https://cdn-icons-png.flaticon.com/128/2910/2910948.png" alt="Footer Badge 4 - Natural">
+            <span>NATURAL</span>
+        </div>
+    </footer>
+
+    <script>
+        // Add any interactivity if needed (currently none required based on the design)
+    </script>
+</body>
+</html>
