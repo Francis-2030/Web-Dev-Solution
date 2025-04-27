@@ -1,11 +1,10 @@
 # Web Development Group Project
-
+PLP February Cohort Group 193
 ## Team Members
-- [Your Name 1]
-- [Your Name 2]
-- [Your Name 3]
-- [Your Name 4]
-- [Your Name 5]
+- Francis Kahura Njuguna (Team Leader) -franciskahura2030@gmail.com
+- Mike Ayoti (Member) -mikeayoti96@gmail.com
+- Francis Njuguna Kamau (Member) -kamauboom@gmail.com
+- Blessing Matukane (Member) -blessingbenjamin779@gmail.com
 
 ## Project Overview
 This repository contains our group's web development project solution. We've built this project using the technologies covered during the course, ensuring clean code practices and collaborative development.
