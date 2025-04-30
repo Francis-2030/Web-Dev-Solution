@@ -36,7 +36,7 @@ This project is a collaborative web development assignment for the PLP February 
 3. Ensure the `assets` folder contains all required images and icons.
 
 ## Folder Structure
-Web-Dev-Solution/ │ 
+```Web-Dev-Solution/ │ 
 ├── index.html          # Main HTML file
 ├── css/                # CSS stylesheets
 │   └── style.css
@@ -44,6 +44,7 @@ Web-Dev-Solution/ │
 │   └── main.js
 ├── assets/             # Images and other static files
 └── README.md           # Project documentation
+```
 
 ## Contact
 For any inquiries or contributions, feel free to contact the team members via their provided email addresses.
