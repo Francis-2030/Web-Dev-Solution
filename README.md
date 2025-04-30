@@ -1,53 +1,51 @@
 # Web Development Group Project
 PLP February Cohort Group 193
+
 ## Team Members
-- Francis Kahura Njuguna (Team Leader) -franciskahura2030@gmail.com
-- Mike Ayoti (Member) -mikeayoti96@gmail.com
-- Francis Njuguna Kamau (Member) -kamauboom@gmail.com
-- Blessing Matukane (Member) -blessingbenjamin779@gmail.com
+- **Francis Kahura Njuguna** (Team Leader) - franciskahura2030@gmail.com
+- GitHub: [@Francis-2030](https://github.com/Francis-2030)
+
+- **Mike Ayoti** (Member) - mikeayoti96@gmail.com
+- GitHub: [@MykeShale](https://github.com/MykeShale)
+
+- **Francis Njuguna Kamau** (Member) - kamauboom@gmail.com
+- GitHub: [@Francis-Njuguna](https://github.com/Francis-Njuguna)
+
+- **Blessing Matukane** (Member) - blessingbenjamin779@gmail.com
+- *GitHub*: [@MatukaneBless](https://github.com/MatukaneBless)
 
 ## Project Overview
-This repository contains our group's web development project solution. We've built this project using the technologies covered during the course, ensuring clean code practices and collaborative development.
-
-## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-- [Add any other technologies used]
-
-## Project Structure
-```
-├── index.html          # Main HTML file
-├── css/                # CSS stylesheets
-│   └── style.css
-├── js/                 # JavaScript files
-│   └── main.js
-├── assets/             # Images and other static files
-└── README.md           # Project documentation
-```
-
-## Setup Instructions
-1. Clone this repository
-2. Open `index.html` in your web browser
-3. [Add any additional setup steps]
+This project is a collaborative web development assignment for the PLP February Cohort Group 193. The goal is to design and implement a responsive and visually appealing website that showcases various web development skills, including HTML, CSS, and JavaScript.
 
 ## Features
-- [List main features of your project]
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+- **Responsive Design**: The website is fully responsive and adapts to different screen sizes, including mobile, tablet, and desktop.
+- **Hero Section**: A visually appealing hero section with a call-to-action.
+- **Biography Section**: A section highlighting the team leader's biography and contact details.
+- **Portfolio Section**: A gallery showcasing successful projects and work.
+- **Footer**: A footer with contact information, social media links, and a scroll-to-top button.
 
-## Contribution Guidelines
-- Each team member is responsible for their assigned tasks
-- Code must be reviewed by at least one other team member before merging
-- Follow the established coding standards and conventions
-- Document any major changes in the commit messages
+## Technologies Used
+- **HTML5**: For structuring the content.
+- **CSS3**: For styling and layout.
+- **JavaScript**: For interactivity and responsiveness.
+- **Font Awesome**: For icons used throughout the website.
 
-## Project Timeline
-- [Add project milestones and deadlines]
+## How to Run the Project
+1. Clone the repository to your local machine.
+2. Open the `index.html` file in any modern web browser.
+3. Ensure the `assets` folder contains all required images and icons.
 
-## License
-[Specify your license here]
+## Folder Structure
+Web-Dev-Solution/ │ 
+├── assets/ │ 
+            └── styles/ │
+├── css/ │ 
+         └── style.css │ 
+├── js/ │ 
+        └── main.js │ 
+├── index.html 
+└── README.md
 
-## Contact Information
-[Add team contact information if needed]
+
+## Contact
+For any inquiries or contributions, feel free to contact the team members via their provided email addresses.
