@@ -37,15 +37,13 @@ This project is a collaborative web development assignment for the PLP February 
 
 ## Folder Structure
 Web-Dev-Solution/ │ 
-├── assets/ │ 
-            └── styles/ │
-├── css/ │ 
-         └── style.css │ 
-├── js/ │ 
-        └── main.js │ 
-├── index.html 
-└── README.md
-
+├── index.html          # Main HTML file
+├── css/                # CSS stylesheets
+│   └── style.css
+├── js/                 # JavaScript files
+│   └── main.js
+├── assets/             # Images and other static files
+└── README.md           # Project documentation
 
 ## Contact
 For any inquiries or contributions, feel free to contact the team members via their provided email addresses.
