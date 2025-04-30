@@ -44,6 +44,12 @@ function toggleMobileMenu() {
     console.log('Mobile menu toggle clicked');
 }
 
+// Toggle menu functionality
+function toggleMenu() {
+  const navLinks = document.querySelector('.nav-links');
+  navLinks.classList.toggle('active');
+}
+
 // Initialize any features when the DOM is loaded
 document.addEventListener('DOMContentLoaded', function() {
     console.log('Website initialized');
@@ -69,4 +75,4 @@ document.querySelectorAll('.search-icon').forEach(icon => {
   icon.addEventListener('blur', () => {
     icon.style.color = '';
   });
-}); 
+});
